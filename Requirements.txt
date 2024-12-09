@@ -1,0 +1,16 @@
+torch>=1.8.0
+torchvision
+torch_geometric
+torch_scatter
+torch_sparse
+torch_cluster
+torch_spline_conv
+numpy
+pandas
+tqdm
+Pillow
+scipy
+transformers
+scikit-learn
+networkx
+datasets
